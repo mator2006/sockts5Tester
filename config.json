@@ -1,0 +1,17 @@
+{
+	"tcpTimeout":5,
+	"httpTimeout":10,
+	"maindir":"/root/.cow",
+	"maindir":".",
+	"sourceDir":"source",
+	"proxyListFile":"p.txt",
+	"outputFile":true,
+
+	"outputDir":"/root/.cow",
+	"outputDir":".",
+	"outputFilename":"rc",
+	"outputTitle":"listen = 192.168.19.202:80\nproxy = socks5://192.168.19.202:8080\n#static\n",
+	"outputTail":"#Update by ",
+    "testwebslist":["https://www.baidu.com","https://www.google.com","https://github.com"],
+	"static":["socks5://192.168.19.202:8080"]
+}

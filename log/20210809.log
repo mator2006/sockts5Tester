@@ -1,0 +1,6 @@
+2021/08/09 18:19:58 [INFO] Programer start.
+2021/08/09 18:19:58 [INFO] [source/p.txt] readed 2 item,useable 2 item.
+2021/08/09 18:20:03 [DEBUG] dial tcp 2.2.2.2:8080: i/o timeout
+2021/08/09 18:20:03 [DEBUG] dial tcp 1.1.1.1:1080: i/o timeout
+2021/08/09 18:20:03 [INFO] [ 2/0 live] first test complete .
+2021/08/09 18:20:03 [ERROR] no valid proxy server
